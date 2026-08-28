@@ -1,4 +1,7 @@
 # ShedCalc - simple shed material calculator
+
+Project repo: https://git.main.lv/cgit.cgi/ShedCalc.git/
+
 Calculates amount of material is needed to build the shed.
 Calculates:
  * structure timber
